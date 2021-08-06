@@ -1487,12 +1487,12 @@ footer {
   }
 
   .site-nav {
-    width: 75%;
+    width: 80%;
   }
 
   .site-nav__link {
-    font-size: 16px;
-    line-height: 15px;
+    font-size: 14px;
+    line-height: 12px;
     margin-left: 22px;
     padding: 0;
     color: #fff;
@@ -1518,9 +1518,9 @@ footer {
   .site-nav__link~.site-nav__link {
     transition: all 0.5s ease;
     color: #fff;
-    font-size: 18px;
-    line-height: 22px;
-    margin-left: 20px;
+    font-size: 14px;
+    line-height: 12px;
+    margin-left: 18px;
   }
 
 
@@ -1876,7 +1876,7 @@ footer {
   .site-nav__link {
     font-size: 12px;
     line-height: 14px;
-    margin-left: 20px;
+    margin-left: 14px;
     padding: 0;
     color: #fff;
   }
